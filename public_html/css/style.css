@@ -1,6 +1,8 @@
 body {
-    background-color: lightgrey;
+    background-image: url("https://github.com/kaw393939/internet-history-601/blob/layouts/public_html/images/sample.png?raw=true");
 }
+#image{
+    background-color: cadetblue;
 }
 .midnightblue{
     color: midnightblue;
